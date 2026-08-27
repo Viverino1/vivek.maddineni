@@ -1,18 +1,18 @@
 # IoT Smart Blinds with Siri Integration
 
-## 🛠️ Tech Stack
-
-* **Microcontroller:** ESP32 Dev Kit
-* **Motor & Driver:** NEMA17 Stepper Motor, L298N Motor Driver Module
-* **Firmware:** C++ (Arduino IDE / ESP-IDF)
-* **Integration:** Apple Shortcuts, RESTful HTTP API
-
 ## 📸 Gallery
 <div display="flex">
     <img src="media/smart-blinds/open-close.gif" width=33%>
     <img src="media/smart-blinds/top.png" width=33%>
     <img src="media/smart-blinds/bottom.png" width=33%>
 </div>
+
+## 🛠️ Tech Stack
+
+* **Microcontroller:** ESP32 Dev Kit
+* **Motor & Driver:** NEMA17 Stepper Motor, L298N Motor Driver Module
+* **Firmware:** C++ (Arduino IDE / ESP-IDF)
+* **Integration:** Apple Shortcuts, RESTful HTTP API
 
 ## 🚀 Design Process
 
@@ -25,19 +25,19 @@
 
 # IoT Smart Lamp with Siri Integration
 
-## 🛠️ Tech Stack
-
-* **Microcontroller:** ESP32 Dev Kit
-* **High Power Switching:** 5V Relay with Optocoupler Isolation for 120V AC
-* **Firmware:** C++ (Arduino IDE / ESP-IDF)
-* **Integration:** Apple Shortcuts, RESTful HTTP API
-
 ## 📸 Gallery
 <div display="flex">
     <img src="media/smart-lamp/on-off.gif" width=33%>
     <img src="media/smart-lamp/device-and-lamp.png" width=33%>
     <img src="media/smart-lamp/device.png" width=33%>
 </div>
+
+## 🛠️ Tech Stack
+
+* **Microcontroller:** ESP32 Dev Kit
+* **High Power Switching:** 5V Relay with Optocoupler Isolation for 120V AC
+* **Firmware:** C++ (Arduino IDE / ESP-IDF)
+* **Integration:** Apple Shortcuts, RESTful HTTP API
 
 ## 🚀 Design Process
 
