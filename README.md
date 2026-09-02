@@ -83,3 +83,5 @@ I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed
 </div>
 
 As the founding frontend engineer, I was a part of the fintech startup PayBridge. I lead the frontend team to significantly improve user experience by creating a custom website tailored to PayBridge. After pushing the new frontend to production, we hit $3500+ in transaction volume and I improved clickthrough rate to the main service by 214%. PayPal, Cash App and Venmo are supported with our service and we grew a small recurring userbase. I made full use of the Next.JS server-side architecture to keep the platform responsive, secure, and quick to load, but ensured the React frontend didn't compromise on interactivity.
+
+[See PayBridge Website](https://paybridgetech.com/). 
