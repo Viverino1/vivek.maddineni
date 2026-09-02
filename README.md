@@ -12,9 +12,7 @@
     <video style="height: 100%; width: auto; object-fit: contain;" autoplay loop muted playsinline>
         <source src="media/verge/decode.mp4" type="video/mp4">
     </video>
-    <video style="height: 100%; width: auto; object-fit: contain;" autoplay loop muted playsinline>
-        <source src="media/verge/itd.mp4" type="video/mp4">
-    </video>
+    <img src="media/verge/itd.gif" style="height: 100%; width: auto; object-fit: contain;" alt="itd simulation">
     <video style="height: 100%; width: auto; object-fit: contain;" autoplay loop muted playsinline>
         <source src="media/verge/cs.mp4" type="video/mp4">
     </video>
