@@ -1,4 +1,4 @@
-# Founded and Captained FTC Robotics Team Verge #23250
+# Founded and Captained FTC Team #23250
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/Java-E11B22?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -14,7 +14,7 @@
     <img src="media/verge/cs.gif" height="220">
 </div>
 
-Designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons of the FIRST Tech Challenge while managing a team of up to 24 team members and junior members. All above videos showcase completely autonomous sensor based routines programmed in Java through Android Studio. Sensors used include color, proximity, encoder, odometry, and accelerometer. Algorithims used include PID, Kalman filters, and OpenCV. Tensorflow was also used for image detection. Onshape and Fusion360 were used for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 10 championships, 12 meets, 4 scrimmages, and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
+As captain of the FIRST Tech Challenge team Verge, I designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons while managing a team of up to 24 team members and junior members. All above videos showcase completely autonomous sensor based routines programmed in Java through Android Studio. Sensors used include color, proximity, encoder, odometry, and accelerometer. Algorithims used include PID, Kalman filters, and OpenCV. Tensorflow was also used for image detection. Onshape and Fusion360 were used for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 10 championships, 12 meets, 4 scrimmages, and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
 
 [See 2026 FTC Decode Worlds CAD](https://cad.onshape.com/documents/f9c50239f003f284218caf4b/w/a1ea846a776226659ce67be6/e/d9500bb17ace6d445a5c32a7?renderMode=0&uiState=6a974d5e0a2f6a820ac0c63d). 
 
