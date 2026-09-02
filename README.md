@@ -39,7 +39,27 @@ As captain of the FIRST Tech Challenge team Verge, I designed, funded, manufactu
 
 As the founding frontend engineer, I was a part of the fintech startup PayBridge. I lead the frontend team to significantly improve user experience by creating a custom website tailored to PayBridge. After pushing the new frontend to production, we hit $3500+ in transaction volume and I improved clickthrough rate to the main service by 214%. PayPal, Cash App and Venmo are supported with our service and we grew a small recurring user-base. I made full use of the Next.JS server-side architecture to keep the platform responsive, secure, and quick to load, but ensured the React frontend didn't compromise on interactivity. I learned a lot about CI/CD pipelines and collaborating with a team of engineers over Github during my time with PayBridge.
 
-[See PayBridge Website](https://paybridgetech.com/). 
+[See PayBridge Website](https://paybridgetech.com/).
+
+<br><br>
+
+# Go-Kart (Internal Combustion)
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logo=autodesk&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/Metalworking-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Welding-E11B22?style=for-the-badge&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="media/go-kart/driving.gif" height="220">
+    <img src="media/go-kart/cutting.png" height="220">
+</div>
+
+I designed a go-kart on Fusion 360 around the Predator 212cc engine. With a team of a few friends, we processed steel tubing by cutting, grinding, and welding it into a chassis. We then added steering, pedals, brakes, wheels, and decorations. We successfully drove the go-kart through the 4+ mile path of our homecoming parade. We experimented with various carburetors, jets, clutches, and brakes before coming up with out final prototype. Currently we are remaking the go-kart with improved aesthetics, stronger brakes, and an optimized engine configuration.
+
+[Launch Control Instragram](https://www.instagram.com/launch_controloffical).
 
 <br><br>
 
@@ -108,13 +128,17 @@ I designed a Macro Pad with six programmable and hot-swappable keys as well as s
 
 <br><br>
 
-# Internal Combustion Drifting Go-Kart
+# DIY IR Proximity Sensor
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
-    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logo=autodesk&logoColor=white">
-    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
-    <img src="https://img.shields.io/badge/Metalworking-E11B22?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Welding-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-E11B22?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 
-I designed a go-kart on Fusion 360 around the Predator 212cc engine. With a team of a few friends, we processed steel tubing by cutting, grinding, and welding it into a chassis. We then added steering, pedals, brakes, wheels, and decorations. We successfully drove the go-kart through the 4+ mile path of our homecoming parade.
+<div style="display: flex; gap: 10px;">
+    <img src="media/proximity/working.gif" height="220">
+    <img src="media/proximity/breadboard.png" height="220">
+    <img src="media/proximity/final.png" height="220">
+</div>
+
