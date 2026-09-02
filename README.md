@@ -48,7 +48,9 @@ I engineered IoT smart blinds and smart lamp systems using ESP32 microcontroller
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/CNC%20Machining-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/CNC%20Machining-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/GCode-E11B22?style=for-the-badge&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 10px;">
