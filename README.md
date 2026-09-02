@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logo=person&logoColor=white" alt="Leadership">
 </div>
 
-<div style="display: flex; gap: 10px; height: 250px; align-items: center;">
-    <img src="media/verge/decode.gif" style="height: 100%; width: auto; object-fit: contain;">
-    <img src="media/verge/itd.gif" style="height: 100%; width: auto; object-fit: contain;">
-    <img src="media/verge/cs.gif" style="height: 100%; width: auto; object-fit: contain;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <img src="media/verge/decode.gif" height="250" alt="Decode Autonomous">
+    <img src="media/verge/itd.gif" height="250" alt="Into the Deep Autonomous">
+    <img src="media/verge/cs.gif" height="250" alt="CenterStage Autonomous">
 </div>
 
 ## 🚀 Description
@@ -36,10 +36,10 @@ Designed, funded, manufactured, built, and programmed 10+ unique iterations of r
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="media/smart-blinds/open-close.gif" width=20%>
-    <img src="media/smart-blinds/top.png" width=20%>
-    <img src="media/smart-lamp/on-off.gif" width=20%>
-    <img src="media/smart-lamp/device.png" width=20%>
+    <img src="media/smart-blinds/open-close.gif" height="250">
+    <img src="media/smart-blinds/top.png" height="250">
+    <img src="media/smart-lamp/on-off.gif" height="250">
+    <img src="media/smart-lamp/device.png" height="250">
 </div>
 
 ## 🚀 Description
