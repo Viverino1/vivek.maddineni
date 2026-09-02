@@ -9,9 +9,9 @@
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img src="media/verge/decode.gif" height="250" alt="Decode Autonomous">
-    <img src="media/verge/itd.gif" height="250" alt="Into the Deep Autonomous">
-    <img src="media/verge/cs.gif" height="250" alt="CenterStage Autonomous">
+    <img src="media/verge/decode.gif" height="220" alt="Decode Autonomous">
+    <img src="media/verge/itd.gif" height="220" alt="Into the Deep Autonomous">
+    <img src="media/verge/cs.gif" height="220" alt="CenterStage Autonomous">
 </div>
 
 ## 🚀 Description
@@ -36,10 +36,10 @@ Designed, funded, manufactured, built, and programmed 10+ unique iterations of r
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="media/smart-blinds/open-close.gif" height="250">
-    <img src="media/smart-blinds/top.png" height="250">
-    <img src="media/smart-lamp/on-off.gif" height="250">
-    <img src="media/smart-lamp/device.png" height="250">
+    <img src="media/smart-blinds/open-close.gif" height="220">
+    <img src="media/smart-blinds/top.png" height="220">
+    <img src="media/smart-lamp/on-off.gif" height="220">
+    <img src="media/smart-lamp/device.png" height="220">
 </div>
 
 ## 🚀 Description
