@@ -142,3 +142,21 @@ I designed a Macro Pad with six programmable and hot-swappable keys as well as s
     <img src="media/proximity/final.png" height="220">
 </div>
 
+I designed the circuit for an IR proximity sensor that works by emitting IR light from an LED and measuring how much of that light is recieved through an IR photoresister. The more light which is reflected, the closer the target is to the sensor. I used a threshold to trigger another IR emitter to broadcast a code that would toggle my room lights on or off. I learned to properly handle the incoming signal, filter false positives, clean up the input, and map the voltage readings from the photoresister to usable distance measurement units.
+
+# Arduino Projects
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-E11B22?style=for-the-badge&logo=arduino&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="media/arduino/light.gif" height="220">
+    <img src="media/arduino/charger.png" height="220">
+    <img src="media/arduino/gate.png" height="220">
+    <img src="media/arduino/ir.png" height="220">
+</div>
+
+I experimented with the Arduino microcontroller board and standard electronic components like capacitors, resisters, leds, photoresistors, etc. through various projects. I designed a capacitive touch circuit, and programmed the arduino to take that input and broadcast an IR code to the lights in my room to turn them on and off. I modified a wireless charging coil to output a signal to the arduino when a phone was present infront of it, and used this information to turn my lights on when I was at my desk and put my phone on the charger, and turn the lights off when i left the room and took the phone off the charger. I also experimented with various logic gates built from logic level transistors.
