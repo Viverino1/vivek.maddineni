@@ -104,4 +104,17 @@ I engineered IoT smart blinds and smart lamp systems using ESP32 microcontroller
     <img src="media/macro-pad/back.png" height="220">
 </div>
 
-I designed, fabricated, assembled, and programmed a Macro Pad with six programmable and hot-swappable keys as well as six RGB LED lights making for 18 total LED channels and 6 input channels to control. I achieved this by using multiple shift registers to write data to every LED channel through just a few signal pins. each key switch got its own input pin on the ESP32. Bluetooth was used to pair with and control the computer, but power was provided by USB. A battery pack could be attatched to use the macro pad wirelessly. The project was compatible with Windows and MacOS. I learned a lot about programming wireless protocols and designing working circuits. Careful wiring and programming was neccessary to control all 18 LED channels through the shift registers while recieving input from the key switches and maintaining the bluetooth connection. A low power mode was also programmed to save battery life.
+I designed a Macro Pad with six programmable and hot-swappable keys as well as six RGB LED lights making for 18 total LED channels and 6 input channels to control. I achieved this by using multiple shift registers to write data to every LED channel through just a few signal pins. each key switch got its own input pin on the ESP32. I programmed Bluetooth to pair with and control the computer, but power was provided by USB. A battery pack could be attatched to use the macro pad wirelessly. The project was compatible with Windows and MacOS. I learned a lot about programming wireless protocols and designing working circuits. Careful wiring and programming was neccessary to control all 18 LED channels through the shift registers while recieving input from the key switches and maintaining the bluetooth connection. A low power mode was also programmed to save battery life.
+
+<br><br>
+
+# Internal Combustion Drifting Go-Kart
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logo=autodesk&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/Metalworking-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Welding-E11B22?style=for-the-badge&logoColor=white">
+</div>
+
+I designed a go-kart on Fusion 360 around the Predator 212cc engine. With a team of a few friends, we processed steel tubing by cutting, grinding, and welding it into a chassis. We then added steering, pedals, brakes, wheels, and decorations. We successfully drove the go-kart through the 4+ mile path of our homecoming parade.
