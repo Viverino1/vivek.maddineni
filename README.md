@@ -22,25 +22,24 @@ As captain of the FIRST Tech Challenge team Verge, I designed, funded, manufactu
 
 <br><br>
 
-# IoT Smart Devices with Siri Integration
+# PayBridge Technologies LLC
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
-    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/ESP32-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
-    <img src="https://img.shields.io/badge/REST%20API-E11B22?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Siri%20Shortcuts-E11B22?style=for-the-badge&logo=apple&logoColor=white">
-    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
-    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.JS-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/React-E11B22?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-E11B22?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-E11B22?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="media/smart-blinds/open-close.gif" height="220">
-    <img src="media/smart-blinds/top.png" height="220">
-    <img src="media/smart-lamp/on-off.gif" height="220">
-    <img src="media/smart-lamp/device.png" height="220">
+    <img src="media/paybridge/landing.gif" height="220">
+    <img src="media/paybridge/bridge.png" height="220">
 </div>
 
-I engineered IoT smart blinds and smart lamp systems using ESP32 microcontrollers, a NEMA17 stepper motor, an L298N driver module connected to the window's operating shaft via a custom 3D-printed adapter, and a 5V relay with optocoupler to switch 120V mains power to the bedlamp. The ESP32 runs C++ firmware hosting a lightweight RESTful HTTP API, enabling seamless remote control and voice integration via Apple Shortcuts and Siri.
+As the founding frontend engineer, I was a part of the fintech startup PayBridge. I lead the frontend team to significantly improve user experience by creating a custom website tailored to PayBridge. After pushing the new frontend to production, we hit $3500+ in transaction volume and I improved clickthrough rate to the main service by 214%. PayPal, Cash App and Venmo are supported with our service and we grew a small recurring user-base. I made full use of the Next.JS server-side architecture to keep the platform responsive, secure, and quick to load, but ensured the React frontend didn't compromise on interactivity. I learned a lot about CI/CD pipelines and collaborating with a team of engineers over Github during my time with PayBridge.
+
+[See PayBridge Website](https://paybridgetech.com/). 
 
 <br><br>
 
@@ -67,21 +66,42 @@ I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed
 
 <br><br>
 
-# PayBridge Technologies LLC
+# IoT Smart Devices with Siri Integration
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
-    <img src="https://img.shields.io/badge/Next.JS-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/React-E11B22?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-E11B22?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-E11B22?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP32-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-E11B22?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Siri%20Shortcuts-E11B22?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="media/paybridge/landing.gif" height="220">
-    <img src="media/paybridge/bridge.png" height="220">
+    <img src="media/smart-blinds/open-close.gif" height="220">
+    <img src="media/smart-blinds/top.png" height="220">
+    <img src="media/smart-lamp/on-off.gif" height="220">
+    <img src="media/smart-lamp/device.png" height="220">
 </div>
 
-As the founding frontend engineer, I was a part of the fintech startup PayBridge. I lead the frontend team to significantly improve user experience by creating a custom website tailored to PayBridge. After pushing the new frontend to production, we hit $3500+ in transaction volume and I improved clickthrough rate to the main service by 214%. PayPal, Cash App and Venmo are supported with our service and we grew a small recurring user-base. I made full use of the Next.JS server-side architecture to keep the platform responsive, secure, and quick to load, but ensured the React frontend didn't compromise on interactivity. I learned a lot about CI/CD pipelines and collaborating with a team of engineers over Github during my time with PayBridge.
+I engineered IoT smart blinds and smart lamp systems using ESP32 microcontrollers, a NEMA17 stepper motor, an L298N driver module connected to the window's operating shaft via a custom 3D-printed adapter, and a 5V relay with optocoupler to switch 120V mains power to the bedlamp. The ESP32 runs C++ firmware hosting a lightweight RESTful HTTP API, enabling seamless remote control and voice integration via Apple Shortcuts and Siri.
 
-[See PayBridge Website](https://paybridgetech.com/). 
+<br><br>
+
+# ESP32 Based Bluetooth Macro Pad
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP32-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/Bluetooth-E11B22?style=for-the-badge&logo=bluetooth&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="media/macro-pad/working.gif" height="220">
+    <img src="media/macro-pad/front.png" height="220">
+    <img src="media/macro-pad/back.png" height="220">
+</div>
+
+I designed, fabricated, assembled, and programmed a Macro Pad with six programmable and hot-swappable keys as well as six RGB LED lights making for 18 total LED channels and 6 input channels to control. I achieved this by using multiple shift registers to write data to every LED channel through just a few signal pins. each key switch got its own input pin on the ESP32. Bluetooth was used to pair with and control the computer, but power was provided by USB. A battery pack could be attatched to use the macro pad wirelessly. The project was compatible with Windows and MacOS. I learned a lot about programming wireless protocols and designing working circuits. Careful wiring and programming was neccessary to control all 18 LED channels through the shift registers while recieving input from the key switches and maintaining the bluetooth connection. A low power mode was also programmed to save battery life.
