@@ -62,4 +62,5 @@ I engineered IoT smart blinds and smart lamp systems using ESP32 microcontroller
 
 I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed and replacing them with a scrap piece of wood and a cheap 500 Watt brushed spindle motor. I supplied 48v to it through a power supply and used a potentiometer to vary the speed of the spindle. I programmed the machine using Fusion 360's built-in path generator features and exported into marlin gcode to run off the modified Ender's SD card. This setup was capable of cutting 2.5mm carbon fiber sheets provided conservative cutting speeds. To improve the speed and accuracy of the system, I designed a fully custom machine built from rigid aluminum extrusion, NEMA23 stepper motors, ball screw powered motion, and a 1.25hp router as the spindle.
 
-[See OpenRouter-CNC CAD Model]([https://drive.google.com/file/d/1tqqMHz2c_Pck58GzC4pZWlwsdKCINmBz/view?usp=sharing](https://cad.onshape.com/documents/1be3dd1297bd274db94cd8d0/w/4117030b8ce5217ce517a7e1/e/fc0214e438d29ed3bbffd0ba?renderMode=0&uiState=6a9786fbf9e38beda7fea2c7)). 
+
+[See OpenRouter-CNC CAD Model](https://cad.onshape.com/documents/1be3dd1297bd274db94cd8d0/w/4117030b8ce5217ce517a7e1/e/fc0214e438d29ed3bbffd0ba?renderMode=0&uiState=6a9786fbf9e38beda7fea2c7). 
