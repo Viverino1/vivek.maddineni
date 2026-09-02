@@ -9,19 +9,17 @@
 </div>
 
 <div style="display: flex; gap: 10px; height: 250px; align-items: center;">
-    <video style="height: 100%; width: auto; object-fit: contain;" autoplay loop muted playsinline>
-        <source src="media/verge/decode.mp4" type="video/mp4">
-    </video>
-    <img src="media/verge/itd.gif" style="height: 100%; width: auto; object-fit: contain;" alt="itd simulation">
-    <video style="height: 100%; width: auto; object-fit: contain;" autoplay loop muted playsinline>
-        <source src="media/verge/cs.mp4" type="video/mp4">
-    </video>
+    <img src="media/verge/decode.gif" style="height: 100%; width: auto; object-fit: contain;">
+    <img src="media/verge/itd.gif" style="height: 100%; width: auto; object-fit: contain;">
+    <img src="media/verge/cs.gif" style="height: 100%; width: auto; object-fit: contain;">
 </div>
 
 ## 🚀 Description
-Designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons of the FIRST Tech Challenge while managing a team of up to 24 team members and junior members. Used Onshape and Fusion360 for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 22 competitions and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
+Designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons of the FIRST Tech Challenge while managing a team of up to 24 team members and junior members. All above videos showcase completely autonomous sensor based routines programmed in Java through Android Studio. Sensors used include color, proximity, encoder, odometry, and accelerometer. Algorithims used include PID, Kalman filters, and OpenCV. Tensorflow was also used for image detection. Onshape and Fusion360 were used for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 22 competitions and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
 
-[See 2026 FTC Decode Worlds CAD](https://cad.onshape.com/documents/f9c50239f003f284218caf4b/w/a1ea846a776226659ce67be6/e/d9500bb17ace6d445a5c32a7?renderMode=0&uiState=6a974d5e0a2f6a820ac0c63d).
+[See 2026 FTC Decode Worlds CAD](https://cad.onshape.com/documents/f9c50239f003f284218caf4b/w/a1ea846a776226659ce67be6/e/d9500bb17ace6d445a5c32a7?renderMode=0&uiState=6a974d5e0a2f6a820ac0c63d). 
+
+[See 2026 FTC Decode Worlds Engineering Portfolio](). 
 
 <br><br>
 
