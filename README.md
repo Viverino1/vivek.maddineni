@@ -1,17 +1,17 @@
 # Founded and Captained FTC Robotics Team Verge #23250
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
-    <img src="https://img.shields.io/badge/Java-E11B22?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD Design">
-    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white" alt="3D Printing">
-    <img src="https://img.shields.io/badge/CNC%20Machining-E11B22?style=for-the-badge&logoColor=white" alt="CNC Machining">
-    <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logo=person&logoColor=white" alt="Leadership">
+    <img src="https://img.shields.io/badge/Java-E11B22?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/CAD%20Design-E11B22?style=for-the-badge&logo=autodesk&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/CNC%20Machining-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logo=person&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img src="media/verge/decode.gif" height="220" alt="Decode Autonomous">
-    <img src="media/verge/itd.gif" height="220" alt="Into the Deep Autonomous">
-    <img src="media/verge/cs.gif" height="220" alt="CenterStage Autonomous">
+    <img src="media/verge/decode.gif" height="220">
+    <img src="media/verge/itd.gif" height="220">
+    <img src="media/verge/cs.gif" height="220">
 </div>
 
 Designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons of the FIRST Tech Challenge while managing a team of up to 24 team members and junior members. All above videos showcase completely autonomous sensor based routines programmed in Java through Android Studio. Sensors used include color, proximity, encoder, odometry, and accelerometer. Algorithims used include PID, Kalman filters, and OpenCV. Tensorflow was also used for image detection. Onshape and Fusion360 were used for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 10 championships, 12 meets, 4 scrimmages, and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
@@ -25,12 +25,12 @@ Designed, funded, manufactured, built, and programmed 10+ unique iterations of r
 # IoT Smart Devices with Siri Integration
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
-    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/ESP32-E11B22?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-    <img src="https://img.shields.io/badge/REST%20API-E11B22?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-    <img src="https://img.shields.io/badge/Siri%20Shortcuts-E11B22?style=for-the-badge&logo=apple&logoColor=white" alt="Siri Integration">
-    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white" alt="3D Printing">
-    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white" alt="Circuit Design">
+    <img src="https://img.shields.io/badge/C%2B%2B-E11B22?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP32-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/REST%20API-E11B22?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Siri%20Shortcuts-E11B22?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/3D%20Printing-E11B22?style=for-the-badge&logo=bambulab&logoColor=white">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 10px;">
@@ -41,3 +41,21 @@ Designed, funded, manufactured, built, and programmed 10+ unique iterations of r
 </div>
 
 I engineered IoT smart blinds and smart lamp systems using ESP32 microcontrollers, a NEMA17 stepper motor, an L298N driver module connected to the window's operating shaft via a custom 3D-printed adapter, and a 5V relay with optocoupler to switch 120V mains power to the bedlamp. The ESP32 runs C++ firmware hosting a lightweight RESTful HTTP API, enabling seamless remote control and voice integration via Apple Shortcuts and Siri.
+
+<br><br>
+
+# DIY CNC Router
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/CNC%20Machining-E11B22?style=for-the-badge&logo=espressif&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="media/cnc/cutting1.png" height="220">
+    <img src="media/cnc/cutting2.png" height="220">
+    <img src="media/cnc/fusion.png" height="220">
+    <img src="media/cnc/openrouter.png" height="220">
+</div>
+
+I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed and replacing them with a scrap piece of wood and a cheap 500 Watt brushed spindle motor. I supplied 48v to it through a power supply and used a potentiometer to vary the speed of the spindle. I programmed the machine using Fusion 360's built-in path generator features and exported into marlin gcode to run off the modified Ender's SD card. This setup was capable of cutting 2.5mm carbon fiber sheets provided conservative cutting speeds. To improve the speed and accuracy of the system, I designed a fully custom machine built from rigid aluminum extrusion, NEMA23 stepper motors, ball screw powered motion, and a 1.25hp router as the spindle.
