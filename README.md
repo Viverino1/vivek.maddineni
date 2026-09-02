@@ -44,7 +44,7 @@ I engineered IoT smart blinds and smart lamp systems using ESP32 microcontroller
 
 <br><br>
 
-# DIY CNC Router
+# DIY CNC Routers
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/Circuit%20Design-E11B22?style=for-the-badge&logoColor=white">
@@ -64,3 +64,22 @@ I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed
 
 
 [See OpenRouter-CNC CAD Model](https://cad.onshape.com/documents/1be3dd1297bd274db94cd8d0/w/4117030b8ce5217ce517a7e1/e/fc0214e438d29ed3bbffd0ba?renderMode=0&uiState=6a9786fbf9e38beda7fea2c7). 
+
+<br><br>
+
+# PayBridge Technologies LLC
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/Next.JS-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/React-E11B22?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-E11B22?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-E11B22?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Leadership-E11B22?style=for-the-badge&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="media/paybridge/landing.gif" height="220">
+    <img src="media/paybridge/bridge.png" height="220">
+</div>
+
+As the founding frontend engineer, I was a part of the fintech startup PayBridge. I lead the frontend team to significantly improve user experience by creating a custom website tailored to PayBridge. After pushing the new frontend to production, we hit $3500+ in transaction volume and I improved clickthrough rate to the main service by 214%. PayPal, Cash App and Venmo are supported with our service and we grew a small recurring userbase. I made full use of the Next.JS server-side architecture to keep the platform responsive, secure, and quick to load, but ensured the React frontend didn't compromise on interactivity.
