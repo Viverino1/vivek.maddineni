@@ -246,3 +246,5 @@ I modified an old Ender 3 Pro 3D printer by removing the toolhead and heated bed
 I designed a go-kart on Fusion 360 around the Predator 212cc engine. With a team of a few friends, we processed steel tubing by cutting, grinding, and welding it into a chassis. We then added steering, pedals, brakes, wheels, and decorations. We successfully drove the go-kart through the 4+ mile path of our homecoming parade. We experimented with various carburetors, jets, clutches, and brakes before coming up with out final prototype. Currently we are remaking the go-kart with improved aesthetics, stronger brakes, and an optimized engine configuration.
 
 [Launch Control Instragram](https://www.instagram.com/launch_controloffical).
+
+<br><br>
