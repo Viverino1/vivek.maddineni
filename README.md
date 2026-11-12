@@ -16,7 +16,8 @@
 
 As captain of the FIRST Tech Challenge team Verge, I designed, funded, manufactured, built, and programmed 10+ unique iterations of robots across 3 seasons while managing a team of up to 24 team members and junior members. All above videos showcase completely autonomous sensor based routines programmed in Java through Android Studio. Sensors used include color, proximity, encoder, odometry, and accelerometer. Algorithims used include PID, Kalman filters, and OpenCV. Tensorflow was also used for image detection. Onshape and Fusion360 were used for full robot design including hundereds of 3D printed parts and dozens parts cut from aluminum and carbon fiber plates. Participated in 10 championships, 12 meets, 4 scrimmages, and 130+ outreach events, winning 12 awards including state titles and worlds awards across 3 years.
 
-See 2026 FTC World Championship links: [Codebase](https://github.com/VergeRoboticsFTC-23250/Decode), [CAD Model](https://cad.onshape.com/documents/f9c50239f003f284218caf4b/w/a1ea846a776226659ce67be6/e/d9500bb17ace6d445a5c32a7?renderMode=0&uiState=6a974d5e0a2f6a820ac0c63d), [Engineering Portfolio](https://drive.google.com/file/d/1tqqMHz2c_Pck58GzC4pZWlwsdKCINmBz/view?usp=sharing).
+[Github](https://github.com/VergeRoboticsFTC-23250)
+2026 FTC World Championship links: [CAD Model](https://cad.onshape.com/documents/f9c50239f003f284218caf4b/w/a1ea846a776226659ce67be6/e/d9500bb17ace6d445a5c32a7?renderMode=0&uiState=6a974d5e0a2f6a820ac0c63d), [Engineering Portfolio](https://drive.google.com/file/d/1tqqMHz2c_Pck58GzC4pZWlwsdKCINmBz/view?usp=sharing).
 
 <br><br>
 
@@ -41,6 +42,72 @@ As the founding frontend engineer, I was a part of the fintech startup PayBridge
 
 <br><br>
 
+# Halite - UMD AISB Hackathon 2026
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/Next.js-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/React-E11B22?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-E11B22?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-E11B22?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-E11B22?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Clerk-E11B22?style=for-the-badge&logo=clerk&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-E11B22?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+
+<img src="media/halite/thumbnail.jpg" height="220">
+
+Halite is an operational intelligence engine that ingests unstructured multi-system data dumps (inventory, POS, payroll) to automatically detect, quantify, and rank business inefficiencies. Powered by a high-performance Python/FastAPI backend and a Next.js/React frontend, the system runs a benchmark-driven catalog matching actual operational metrics against industry targets. It computes precise monetary losses (dollars per year) and operational drag (hours per week) using weighted multi-factor scoring (70% financial, 30% time) across cautious, typical, and generous scenario models. Once bottlenecks are identified, autonomous agentic web research algorithms scrape, parse, and analyze vendor sites to curate, score, and deliver top-ranked AI software interventions complete with integration roadmaps.
+
+Links: [Live App](https://halite-web.vercel.app/), [GitHub Repository](https://github.com/halite-tech/halite-web), [Live Demo](https://www.youtube.com/watch?v=W8I8odUaRPs).
+
+<br><br>
+
+# Nytinol - HackUMBC 2026 [Winner]
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/Python-E11B22?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-E11B22?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.JS-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/React-E11B22?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-E11B22?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-E11B22?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-E11B22?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+
+<img src="media/nytinol/thumbnail.jpg" height="220">
+
+Built in 24 hours for hackUMBC 2026, where it won **Best Entrepreneurial Idea (Entrepreneurs Club)**, Nytinol is an AI-powered career pathway planner designed to help students navigate curricular and extracurricular decisions with measurable outcomes. Traditional academic guidance often leaves students overwhelmed with endless options and burnout; Nytinol addresses this by utilizing custom gradient-boosted tree models trained in LightGBM on historical career pathways and degree ROI data. 
+
+The system relies on two core models: Model A (a learning-to-rank model predicting plausible next steps such as specific courses or internships based on student profiles) and Model B (predicting long-term outcomes, job families, industries, and projected first-salary ranges). The web application features an interactive node-tree visualizer built with Next.js and React, allowing students to explore thousands of alumni and experience records, drag and drop career nodes, and instantly calculate 40-year career ROI adjusted for education costs. Secured with modern authentication and powered by a high-performance Python/FastAPI backend, the platform delivers lightning-fast, data-backed career planning.
+
+Links: [Devpost Submission](https://devpost.com/software/nytinol), [Github](https://github.com/orgs/Nytinol/repositories), [Demo Video](https://youtu.be/ZJND4trbh4U), [Live App](https://nytinol-web.vercel.app).
+
+<br><br>
+
+# Mediscan - The Dev Challenge 2025 [Winner]
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
+    <img src="https://img.shields.io/badge/Next.js-E11B22?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-E11B22?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-E11B22?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-E11B22?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-E11B22?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-E11B22?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-E11B22?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-E11B22?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/WebRTC-E11B22?style=for-the-badge&logo=webrtc&logoColor=white">
+</div>
+
+<img src="media/mediscan/thumbnail.jpg" height="220">
+
+Built for The Dev Challenge, Mediscan.care is a comprehensive healthcare platform designed to streamline medical navigation, diagnostics, and remote patient care. Born from the real-world frustration of long, uninformed emergency room wait times and a lack of immediate guidance during medical emergencies, Mediscan provides patients with real-time hospital wait times, an interactive AI self-diagnosis assistant, CNN-powered skin, mouth, and nail condition image classification, and a custom WebRTC-based telemedicine video conferencing suite connecting patients and doctors remotely.
+
+The application leverages a robust multi-tier architecture: a Next.js 14 and TypeScript frontend backed by MongoDB and Redis for high-performance caching, a Python/TensorFlow/Flask backend hosting custom-trained CNN image diagnostic models, and a Node.js/WebRTC video conferencing server communicating via Socket.IO. Additionally, live emergency room wait-time data is dynamically fetched and normalized from the Centers for Medicare & Medicaid Services (CMS) API alongside MapBox and geocoding services to direct patients to the fastest care possible.
+
+Links: [Devpost Submission](https://devpost.com/software/mediscan-care), [Demo Video](https://www.youtube.com/watch?v=gA-RCKCkT0I), [Github](https://github.com/orgs/mediscan-tech/repositories)
+
+<br><br>
+
 # Plaque Detection AI Research
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;">
@@ -51,6 +118,8 @@ As the founding frontend engineer, I was a part of the fintech startup PayBridge
     <img src="https://img.shields.io/badge/Medical%20AI-E11B22?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Healthcare%20Tech-E11B22?style=for-the-badge&logoColor=white">
 </div>
+
+<img src="media/smilescan/bmecposter.png" height="220">
 
 Dental plaque is a biofilm that plays a central role in the development of common oral diseases such as caries, gingivitis, and periodontitis. Traditional plaque detection methods, including the use of disclosing agents, remain the gold standard for identifying plaque accumulation; however, these methods are time-intensive, invasive, and often impractical for everyday clinical use. Our project aims to address this gap by creating an Al-based plaque detection model that eliminates the need for disclosing agents while maintaining high accuracy. Using PyTorch, we trained our model on hundreds of dental images captured from various angles both before and after cleaning procedures, and with and without disclosing agents. Our model segments each tooth into plaque-covered and plaque-free regions and then labels each tooth individually. It produces detailed diagnostic outputs, including plaque concentration index, left-right asymmetry, weighted plaque percentage, plaque score, and plaque accumulation by tooth type. When validated against gold-standard disclosing agent images and clinical dentist records, our model achieved approximately 94% accuracy. Importantly, the model has been integrated into a web-based platform, allowing dentists to upload patient images, receive real-time diagnostic feedback, and build longitudinal records of patients' oral hygiene over time. Patients can also access their history and visualize changes, encouraging better hygiene practices. To date, no existing system provides this level of detailed, automated, and non-invasive plaque tracking, positioning our model to revolutionize clinical dental workflows and preventive care practices.
 
@@ -116,7 +185,7 @@ I designed a Macro Pad with six programmable and hot-swappable keys as well as s
 
 I designed the circuit for an IR proximity sensor that works by emitting IR light from an LED and measuring how much of that light is recieved through an IR photoresister. The more light which is reflected, the closer the target is to the sensor. I used a threshold to trigger another IR emitter to broadcast a code that would toggle my room lights on or off. I learned to properly handle the incoming signal, filter false positives, clean up the input, and map the voltage readings from the photoresister to usable distance measurement units.
 
-<br></br>
+<br><br>
 
 # Arduino Projects
 
